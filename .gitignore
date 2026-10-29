@@ -1,0 +1,24 @@
+# --- Dataset (no se redistribuye; descárgalo de Kaggle, ver data/README.md) ---
+bank_transactions_data_2.csv
+
+# --- Salidas regeneradas al ejecutar los scripts en la raíz ---
+# (las copias de referencia están versionadas en resultados/ y figuras/)
+/resultados_pipeline.csv
+/resultados_complemento.csv
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+
+# --- Sistema / editores ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
